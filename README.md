@@ -16,6 +16,11 @@ Download the community edition acharya binary latest release for your system. Ou
 * [Linux binary](https://github.com/astutic/Acharya/releases/download/v0.3.4-alpha/acharya.0.3.4-alpha.linux.amd64) | SHA256: 036e7ed0e9215c46e09085f5bb10e14c1b04ff5c593e513cf5030ab50d8a45b2
 * [Windows binary](https://github.com/astutic/Acharya/releases/download/v0.3.4-alpha/acharya.0.3.4-alpha.windows.amd64.exe) | SHA256: adbf9d4ba8aaa9a7ae0f331604d1b90060392d47d8a171d8808e10c05d6cd5c0
 
+# Documentation
+Please find the product documentation at https://acharya.astutic.com/docs/intro
+
+# Online Demo
+The Saas version of Acharya is CleanML and a demo can be accessed at https://demo.cleanml.com/
 
 # Initial Run and Setup
 Installation and Setup for Acharya are not required, Acharya runs the initial setup when run for the first time.
